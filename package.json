@@ -1,0 +1,15 @@
+{
+  "name": "tejwheels-landing",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "sync:content": "node scripts/sync-content.mjs",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "vite": "8.1.5"
+  }
+}

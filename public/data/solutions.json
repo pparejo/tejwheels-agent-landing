@@ -1,0 +1,74 @@
+[
+  {
+    "name": "Ruedas de disco fijo",
+    "category": "Tractor y maquinaria agrícola",
+    "range": "Anchos de 3” a 36” · Diámetros de 10” a 54”",
+    "description": "Aro y disco integrados en una solución robusta, configurable según la aplicación y las medidas necesarias.",
+    "image": "/assets/products/disco-fijo.png",
+    "url": "https://tejwheels.com/producto/tractores-y-maquinaria-agricola/",
+    "prompt": "Necesito unas ruedas de disco fijo. ¿Qué medidas y datos técnicos debo facilitar para estudiar la compatibilidad?"
+  },
+  {
+    "name": "Ruedas variables con coronas",
+    "category": "Configuración variable",
+    "range": "Anchos de 4” a 30” · Diámetros de 16” a 54”",
+    "description": "Sistema de regulación mediante coronas para trabajar con distintas posiciones de ancho de vía.",
+    "image": "/assets/products/con-coronas.png",
+    "url": "https://tejwheels.com/producto/con-coronas/",
+    "prompt": "Quiero valorar ruedas variables con coronas. Ayúdame a recopilar la información para elegir la configuración."
+  },
+  {
+    "name": "Ruedas Multi-Fit",
+    "category": "Configuración variable",
+    "range": "Anchos de 7” a 13” · Diámetros de 28” a 54”",
+    "description": "Solución variable con hasta 16 anchos de vía para adaptar la máquina a diferentes trabajos.",
+    "image": "/assets/products/multifit.png",
+    "url": "https://tejwheels.com/producto/multi-fit/",
+    "prompt": "¿En qué casos puede interesarme una rueda Multi-Fit y qué datos necesitas para orientarme?"
+  },
+  {
+    "name": "Flotación y remolque",
+    "category": "Agricultura y transporte",
+    "range": "Anchos de 5,25” a 28” · Diámetros de 15,5” a 30,5”",
+    "description": "Ruedas desarrolladas para aplicaciones de flotación y remolque, también disponibles a medida.",
+    "image": "/assets/products/flotacion.png",
+    "url": "https://tejwheels.com/producto/flotacion-y-remolque/",
+    "prompt": "Busco una solución de flotación o remolque. ¿Qué información de la máquina y del neumático debo aportar?"
+  },
+  {
+    "name": "Aros para maquinaria agrícola",
+    "category": "Aros",
+    "range": "Anchos de 3” a 11” · Diámetros de 8” a 20”",
+    "description": "Aros para distintas aplicaciones en maquinaria agrícola, configurados según la necesidad técnica.",
+    "image": "/assets/products/aro-agricola.png",
+    "url": "https://tejwheels.com/producto/maquinaria-agricola/",
+    "prompt": "Necesito un aro para maquinaria agrícola. Guíame para medirlo correctamente antes de solicitar oferta."
+  },
+  {
+    "name": "Ruedas industriales y minería",
+    "category": "Aplicaciones exigentes",
+    "range": "Anchos de 8” a 32” · Diámetros de 24” a 35”",
+    "description": "Aros y soluciones para maquinaria industrial y minera que requieren configuraciones específicas.",
+    "image": "/assets/products/industrial.png",
+    "url": "https://tejwheels.com/producto/maquinaria-industrial-y-mineria/",
+    "prompt": "Tengo una aplicación industrial o minera. ¿Qué datos técnicos hacen falta para preparar la consulta?"
+  },
+  {
+    "name": "Separadores para gemelar",
+    "category": "Sistemas de gemelado",
+    "range": "Fabricación adaptada a la aplicación",
+    "description": "Soluciones para aumentar tracción, estabilidad y flotación, reduciendo la compactación del terreno.",
+    "image": "/assets/products/separadores.png",
+    "url": "https://tejwheels.com/producto/separadores-para-gemelar/",
+    "prompt": "Quiero estudiar un sistema de gemelado. ¿Cómo sé qué separadores y medidas necesita mi tractor?"
+  },
+  {
+    "name": "Ruedas para remolque agrícola",
+    "category": "Remolque",
+    "range": "Anchos de 6,75” a 28” · Diámetros de 15,3” a 30,5”",
+    "description": "Gama estándar para remolque agrícola con múltiples combinaciones y posibilidad de adaptación.",
+    "image": "/assets/products/remolque.png",
+    "url": "https://tejwheels.com/producto/para-remolque-agricola/",
+    "prompt": "Necesito ruedas para un remolque agrícola. Ayúdame a identificar las medidas y preparar una solicitud."
+  }
+]
