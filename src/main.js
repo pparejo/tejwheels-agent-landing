@@ -68,7 +68,15 @@ function showAgentToast(message) {
 
 function findWidgetButton() {
   return document.querySelector(
-    ".af-widget-btn, [data-af-widget-button], button[aria-label*='chat' i], button[aria-label*='asesor' i]",
+    ".beyond-sherpa-widget-btn, .af-widget-btn, [data-af-widget-button], button[aria-label*='chat' i], button[aria-label*='asesor' i]",
+  );
+}
+
+function getWidgetApi() {
+  return (
+    window.beyondSherpaWidget ||
+    window.beAgentWidget ||
+    window.AgentForgeWidget
   );
 }
 
@@ -79,7 +87,7 @@ async function openAgent(prompt) {
 
   while (Date.now() < timeoutAt) {
     const widgetButton = findWidgetButton();
-    const widgetApi = window.AgentForgeWidget;
+    const widgetApi = getWidgetApi();
 
     if (widgetButton || widgetApi) {
       try {
